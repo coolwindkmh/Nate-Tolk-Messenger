@@ -1,5 +1,5 @@
 # Nate-Tolk-Messenger
-[javaEE] 네트워크 메신저 프로그램 팀 프로젝트
+[javaEE] 네트워크 메신저 프로그램 팀 프로젝트</br>
 주요업무 - 리더
 
 
