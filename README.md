@@ -1,6 +1,6 @@
 # Nate-Tolk-Messenger
 [javaSE] 네트워크 메신저 프로그램 팀 프로젝트</br>
-주요업무 - 리더
+
 
 
 <img src="https://blogfiles.pstatic.net/MjAxOTA1MDhfMTc2/MDAxNTU3MzE0ODcyMzk5.Tsnm0shpJfuDM5LJwAV_-mq94uvuvH2rodRa6oI8L0Ag.69yAs3FO635IbTRVLogPwNYWG9lQUN8jFMZaz_URjAEg.PNG.coolwindkmh/image.png">
